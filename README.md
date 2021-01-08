@@ -8,8 +8,9 @@ Link of the notebook in kaggle : https://www.kaggle.com/shivam2503/diamonds
 
 You can visit my other works in [kaggl](https://www.kaggle.com/sagnik1511/notebooks)
 
-Data Description :
- #   Column      Non-Null Count  Dtype  
+### Data Description :
+
+ ^   Column      Non-Null Count  Dtype  
  
  0   Unnamed: 0  53940 non-null  int64 
  
