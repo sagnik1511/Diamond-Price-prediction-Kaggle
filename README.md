@@ -11,8 +11,6 @@ You can visit my other works in [kaggl](https://www.kaggle.com/sagnik1511/notebo
 Data Description :
  #   Column      Non-Null Count  Dtype  
  
----  ------      --------------  -----
-
  0   Unnamed: 0  53940 non-null  int64 
  
  1   carat       53940 non-null  float64
