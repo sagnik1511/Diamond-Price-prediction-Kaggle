@@ -6,7 +6,7 @@ Price prediction and analysis of retail elements.
 Link of the dataset : https://www.kaggle.com/shivam2503/diamonds
 Link of the notebook in kaggle : https://www.kaggle.com/shivam2503/diamonds
 
-You can visit my other works in [kaggl](https://www.kaggle.com/sagnik1511/notebooks)
+You can visit my other works in [kaggle](https://www.kaggle.com/sagnik1511/notebooks)
 
 ### Data Description :
 
